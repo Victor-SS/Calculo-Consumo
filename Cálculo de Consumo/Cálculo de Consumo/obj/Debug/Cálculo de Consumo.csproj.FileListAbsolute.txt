@@ -1,0 +1,10 @@
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\bin\Debug\Cálculo de Consumo.exe.config
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\bin\Debug\Cálculo de Consumo.exe
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\bin\Debug\Cálculo de Consumo.pdb
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\obj\Debug\Cálculo de Consumo.csproj.AssemblyReference.cache
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\obj\Debug\Cálculo_de_Consumo.FrmConsumo.resources
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\obj\Debug\Cálculo_de_Consumo.Properties.Resources.resources
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\obj\Debug\Cálculo de Consumo.csproj.GenerateResource.cache
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\obj\Debug\Cálculo de Consumo.csproj.CoreCompileInputs.cache
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\obj\Debug\Cálculo de Consumo.exe
+C:\Users\victor.ssosorio\source\repos\Cálculo de Consumo\Cálculo de Consumo\obj\Debug\Cálculo de Consumo.pdb
